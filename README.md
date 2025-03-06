@@ -3,7 +3,7 @@
 This directory contains the support site information in the case of an emergancy and IAC resources are not available.
 
 ## Support URL
-https://someurl.io/support
+https://intersocietal-accreditation-commision.github.io/Support/
 
 ## Adding an article to the support feed Overview
 
