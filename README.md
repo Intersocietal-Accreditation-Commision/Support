@@ -37,5 +37,6 @@ Example:
 <!-- End Single News Feed Item-->
 
 
-
+## Build process
+The Github Pages functionality requires a build process. After a commit to Main it could take at most 2 minutes before updates are visible on the site.
 
