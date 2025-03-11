@@ -36,6 +36,10 @@ Example:
                 </article>
 <!-- End Single News Feed Item-->
 
+## Edit and Commit Process
+To make changes, select the file from the repository and click the edit icon in the upper right corner.
+To save changes, click Commit Changes to save the changes and commit them to the repository. 
+All changes will start a build process.  
 
 ## Build process
 The Github Pages functionality requires a build process. After a commit to Main it could take at most 2 minutes before updates are visible on the site.
